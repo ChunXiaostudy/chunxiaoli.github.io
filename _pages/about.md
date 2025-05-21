@@ -111,16 +111,15 @@ Chunxiao Li, **Xiaoxiao Wang**, Boming Miao, Chuanlong Xie, Zizhe Wang, Yao Zhu
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.10* 🥇 First Prize (Beijing), National Undergraduate Mathematics Competition
+
+- *2021.09* 🏆 Second Prize (National), China Undergraduate Mathematical Contest in Modeling (CUMCM)
+
+- *2020.12* 🥉 Third Prize (National), China Undergraduate Statistical Modeling Competition
+
+- *2021.12* 🥉 Third Prize (National), China Undergraduate Statistical Modeling Competition
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.09 – 2026.06 (expected)*, 🎓 M.Sc. in Operations Research and Cybernetics, University of Chinese Academy of Sciences. 
+- *2019.09 – 2023.06*, 🎓 B.Sc. in Information and Computing Science & B.Mgt. in Big Data Management, University of Science and Technology Beijing. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
-
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
