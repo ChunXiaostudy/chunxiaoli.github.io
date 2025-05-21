@@ -113,7 +113,7 @@ Chunxiao Li*, **Xiaoxiao Wang***, Boming Miao, Chuanlong Xie, Zizhe Wang, Yao Zh
 - *2023.09 – 2026.06 (expected)*, 🎓 M.Sc. in Operations Research and Cybernetics, University of Chinese Academy of Sciences. 
 - *2019.09 – 2023.06*, 🎓 B.Sc. in Information and Computing Science & B.Mgt. in Big Data Management, University of Science and Technology Beijing.
 
-## 🌱 Personal Interests
+## 🌱 Interests
 I love modern dance, classical Chinese dance, and ballet—not just for their beauty, but for how they train the mind to flow with the body. Yoga and Pilates are my go-to rituals for balance and clarity, especially on long coding nights. I also enjoy hiking into the unknown, camera in hand, chasing light and capturing quiet moments. These passions keep me grounded, curious, and full of creative energy—both in research and in life.
 
 
