@@ -17,30 +17,98 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi! I'm Xiaoxiao Wang, a master's student at the University of Chinese Academy of Sciences (UCAS), majoring in Operations Research and Cybernetics, under the supervision of Prof. Yingjie Tian. I am currently a research intern at Qiyuan National Lab, advised by Dr. Yao Zhu.
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+My research interests broadly include multimodal reasoning, vision-language models (VLMs), and text-to-motion generation. I am particularly passionate about building intelligent systems that combine perception and reasoning, and aim to enhance their robustness, controllability, and generalization ability in real-world scenarios.
+
+I am currently seeking PhD opportunities, and hope to continue exploring the intersection of vision, language, and motion under world-class mentorship and collaborative research environments.
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.03*: 🎉 Our paper **"Towards Annotation-Free Evaluation: KPA-Score for Human Keypoint Detection"** was submitted to **ICCV 2025**! (First author)
+- *2025.03*: 🎉 Our paper **"Bridging the Gap Between Ideal and Real-world Evaluation: Benchmarking
+AI-Generated Image Detection in Challenging Scenarios"** was submitted to **ICCV 2025**! (Co-second author)
+- *2025.3*: 🎉 One paper on **Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis** accepted to **CVPR 2025**! (Third author)
+- *2024.11*: 🎉 Our work on **An Efficient Framework for Enhancing Discriminative Models via Diffusion Techniques** has been accepted by **AAAI 2025**! (Co-second author)
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICCV 2025 (Under Review)</div>
+      <img src='images/kpa_score.png' alt="KPAScore" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[**Towards Annotation-Free Evaluation: KPAScore for Human Keypoint Detection**](#)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
+**Xiaoxiao Wang**, Chunxiao Li, Peng Sun, Boming Miao, Yunjian Zhang, Yao Zhu
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+[**Project**](#) | [**Paper (Under Review)**](#) | [**Code (Coming Soon)**](#)
+
+- We propose *KPA-Score*, a new annotation-free evaluation metric for keypoint detection based on vision-language models (VLMs). Our method simulates human judgment through binary response probability and correlates strongly with mAP, achieving 0.71 correlation without using ground-truth annotations.
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">ICCV 2025 (Under Review)</div>
+      <img src='images/ai_fake_benchmark.png' alt="Fake Image Detection Benchmark" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Bridging the Gap Between Ideal and Real-world Evaluation: Benchmarking AI-Generated Image Detection in Challenging Scenarios**](#)
+
+Chunxiao Li*, **Xiaoxiao Wang***, Meiling Li, Boming Miao, Peng Sun, Yunjian Zhang, Xiangyang Ji, Yao Zhu
+
+[**Project**](#) | [**Paper (Under Review)**](#) | [**Code (Coming Soon)**](#)
+
+- We introduce a new benchmark for AI-generated image detection that incorporates real-world distortions such as social media compression and re-digitization. Extensive experiments reveal performance gaps in existing detectors and VLMs. We also propose a robustness-aware in-context few-shot prompting method for improved detection accuracy.
+</div>
+</div>
+
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">CVPR 2025</div>
+      <img src='images/noise_diffusion.png' alt="Noise Diffusion" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis**](https://arxiv.org/abs/xxxx.xxxxx)
+
+Boming Miao, Chunxiao Li, **Xiaoxiao Wang**, Andi Zhang, Rui Sun, Zizhe Wang, Yao Zhu
+
+[**Paper**](https://arxiv.org/abs/xxxx.xxxxx) | [**Code (Coming Soon)**](#)
+
+- We propose a simple yet effective method to optimize the latent noise of diffusion models using VLM-guided question-answering, aiming to improve semantic faithfulness of generated images. Our method is model-agnostic, training-free, and improves both VQA and CLIP-based alignment scores.
+</div>
+</div>
+<div class='paper-box'>
+  <div class='paper-box-image'>
+    <div>
+      <div class="badge">AAAI 2025</div>
+      <img src='images/diffusion_classification.png' alt="Diffusion Framework for Classification" width="100%">
+    </div>
+  </div>
+  <div class='paper-box-text' markdown="1">
+
+[**An Efficient Framework for Enhancing Discriminative Models via Diffusion Techniques**](#)
+
+Chunxiao Li, **Xiaoxiao Wang**, Boming Miao, Chuanlong Xie, Zizhe Wang, Yao Zhu
+
+[**Paper (Coming Soon)**](#) | [**Project**](#) | [**Code**](#)
+
+- Inspired by brain-like reasoning, we design a plug-and-play diffusion-enhanced framework for classification tasks. Low-confidence samples are reprocessed via conditional denoising paths, leading to consistent improvements across ImageNet-1K, CIFAR-10/100, and multiple robustness benchmarks.
+</div>
+</div>
+
+
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
