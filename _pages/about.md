@@ -46,8 +46,6 @@ AI-Generated Image Detection in Challenging Scenarios"** was submitted to **ICCV
 
 **Xiaoxiao Wang**, Chunxiao Li, Peng Sun, Boming Miao, Yunjian Zhang, Yao Zhu
 
-[**Project**](#) | [**Paper (Under Review)**](#) | [**Code (Coming Soon)**](#)
-
 - We propose *KPA-Score*, a new annotation-free evaluation metric for keypoint detection based on vision-language models (VLMs). Our method simulates human judgment through binary response probability and correlates strongly with mAP, achieving 0.71 correlation without using ground-truth annotations.
 </div>
 </div>
@@ -56,7 +54,7 @@ AI-Generated Image Detection in Challenging Scenarios"** was submitted to **ICCV
   <div class='paper-box-image'>
     <div>
       <div class="badge">ICCV 2025 (Under Review)</div>
-      <img src='images/ai_fake_benchmark.png' alt="Fake Image Detection Benchmark" width="100%">
+      <img src='images/bench.png' alt="Fake Image Detection Benchmark" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -64,8 +62,6 @@ AI-Generated Image Detection in Challenging Scenarios"** was submitted to **ICCV
 [**Bridging the Gap Between Ideal and Real-world Evaluation: Benchmarking AI-Generated Image Detection in Challenging Scenarios**](#)
 
 Chunxiao Li*, **Xiaoxiao Wang***, Meiling Li, Boming Miao, Peng Sun, Yunjian Zhang, Xiangyang Ji, Yao Zhu
-
-[**Project**](#) | [**Paper (Under Review)**](#) | [**Code (Coming Soon)**](#)
 
 - We introduce a new benchmark for AI-generated image detection that incorporates real-world distortions such as social media compression and re-digitization. Extensive experiments reveal performance gaps in existing detectors and VLMs. We also propose a robustness-aware in-context few-shot prompting method for improved detection accuracy.
 </div>
@@ -75,7 +71,7 @@ Chunxiao Li*, **Xiaoxiao Wang***, Meiling Li, Boming Miao, Peng Sun, Yunjian Zha
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2025</div>
-      <img src='images/noise_diffusion.png' alt="Noise Diffusion" width="100%">
+      <img src='images/cvpr.png' alt="Noise Diffusion" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -84,8 +80,6 @@ Chunxiao Li*, **Xiaoxiao Wang***, Meiling Li, Boming Miao, Peng Sun, Yunjian Zha
 
 Boming Miao, Chunxiao Li, **Xiaoxiao Wang**, Andi Zhang, Rui Sun, Zizhe Wang, Yao Zhu
 
-[**Paper**](https://arxiv.org/abs/xxxx.xxxxx) | [**Code (Coming Soon)**](#)
-
 - We propose a simple yet effective method to optimize the latent noise of diffusion models using VLM-guided question-answering, aiming to improve semantic faithfulness of generated images. Our method is model-agnostic, training-free, and improves both VQA and CLIP-based alignment scores.
 </div>
 </div>
@@ -93,22 +87,18 @@ Boming Miao, Chunxiao Li, **Xiaoxiao Wang**, Andi Zhang, Rui Sun, Zizhe Wang, Ya
   <div class='paper-box-image'>
     <div>
       <div class="badge">AAAI 2025</div>
-      <img src='images/diffusion_classification.png' alt="Diffusion Framework for Classification" width="100%">
+      <img src='images/aaai.png' alt="Diffusion Framework for Classification" width="100%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
 [**An Efficient Framework for Enhancing Discriminative Models via Diffusion Techniques**](#)
 
-Chunxiao Li, **Xiaoxiao Wang**, Boming Miao, Chuanlong Xie, Zizhe Wang, Yao Zhu
-
-[**Paper (Coming Soon)**](#) | [**Project**](#) | [**Code**](#)
+Chunxiao Li*, **Xiaoxiao Wang***, Boming Miao, Chuanlong Xie, Zizhe Wang, Yao Zhu
 
 - Inspired by brain-like reasoning, we design a plug-and-play diffusion-enhanced framework for classification tasks. Low-confidence samples are reprocessed via conditional denoising paths, leading to consistent improvements across ImageNet-1K, CIFAR-10/100, and multiple robustness benchmarks.
 </div>
 </div>
-
-
 
 # 🎖 Honors and Awards
 - *2021.10* 🥇 First Prize (Beijing), National Undergraduate Mathematics Competition
@@ -121,5 +111,9 @@ Chunxiao Li, **Xiaoxiao Wang**, Boming Miao, Chuanlong Xie, Zizhe Wang, Yao Zhu
 
 # 📖 Educations
 - *2023.09 – 2026.06 (expected)*, 🎓 M.Sc. in Operations Research and Cybernetics, University of Chinese Academy of Sciences. 
-- *2019.09 – 2023.06*, 🎓 B.Sc. in Information and Computing Science & B.Mgt. in Big Data Management, University of Science and Technology Beijing. 
+- *2019.09 – 2023.06*, 🎓 B.Sc. in Information and Computing Science & B.Mgt. in Big Data Management, University of Science and Technology Beijing.
+
+## 🌱 Personal Interests
+I love modern dance, classical Chinese dance, and ballet—not just for their beauty, but for how they train the mind to flow with the body. Yoga and Pilates are my go-to rituals for balance and clarity, especially on long coding nights. I also enjoy hiking into the unknown, camera in hand, chasing light and capturing quiet moments. These passions keep me grounded, curious, and full of creative energy—both in research and in life.
+
 
