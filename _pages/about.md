@@ -27,9 +27,9 @@ I am currently seeking PhD opportunities, and hope to continue exploring the int
 # 🔥 News
 - *2025.03*: 🎉 Our paper **"Towards Annotation-Free Evaluation: KPA-Score for Human Keypoint Detection"** was submitted to **ICCV 2025**! (First author)
 - *2025.03*: 🎉 Our paper **"Bridging the Gap Between Ideal and Real-world Evaluation: Benchmarking
-AI-Generated Image Detection in Challenging Scenarios"** was submitted to **ICCV 2025**! (Co-second author)
+AI-Generated Image Detection in Challenging Scenarios"** was submitted to **ICCV 2025**! (Co-first author)
 - *2025.3*: 🎉 One paper on **Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis** accepted to **CVPR 2025**! (Third author)
-- *2024.11*: 🎉 Our work on **An Efficient Framework for Enhancing Discriminative Models via Diffusion Techniques** has been accepted by **AAAI 2025**! (Co-second author)
+- *2024.11*: 🎉 Our work on **An Efficient Framework for Enhancing Discriminative Models via Diffusion Techniques** has been accepted by **AAAI 2025**! (Co-first author)
 
 # 📝 Publications 
 
@@ -61,7 +61,7 @@ AI-Generated Image Detection in Challenging Scenarios"** was submitted to **ICCV
 
 [**Bridging the Gap Between Ideal and Real-world Evaluation: Benchmarking AI-Generated Image Detection in Challenging Scenarios**](#)
 
-Chunxiao Li*, **Xiaoxiao Wang***, Meiling Li, Boming Miao, Peng Sun, Yunjian Zhang, Xiangyang Ji, Yao Zhu
+Chunxiao Li\*, **Xiaoxiao Wang**\*, Meiling Li, Boming Miao, Peng Sun, Yunjian Zhang, Xiangyang Ji, Yao Zhu
 
 - We introduce a new benchmark for AI-generated image detection that incorporates real-world distortions such as social media compression and re-digitization. Extensive experiments reveal performance gaps in existing detectors and VLMs. We also propose a robustness-aware in-context few-shot prompting method for improved detection accuracy.
 </div>
@@ -71,7 +71,7 @@ Chunxiao Li*, **Xiaoxiao Wang***, Meiling Li, Boming Miao, Peng Sun, Yunjian Zha
   <div class='paper-box-image'>
     <div>
       <div class="badge">CVPR 2025</div>
-      <img src='images/cvpr.png' alt="Noise Diffusion" width="100%">
+      <img src='images/cvpr.png' alt="Noise Diffusion" width="90%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
@@ -87,14 +87,14 @@ Boming Miao, Chunxiao Li, **Xiaoxiao Wang**, Andi Zhang, Rui Sun, Zizhe Wang, Ya
   <div class='paper-box-image'>
     <div>
       <div class="badge">AAAI 2025</div>
-      <img src='images/aaai.png' alt="Diffusion Framework for Classification" width="100%">
+      <img src='images/aaai.png' alt="Diffusion Framework for Classification" width="90%">
     </div>
   </div>
   <div class='paper-box-text' markdown="1">
 
 [**An Efficient Framework for Enhancing Discriminative Models via Diffusion Techniques**](#)
 
-Chunxiao Li*, **Xiaoxiao Wang***, Boming Miao, Chuanlong Xie, Zizhe Wang, Yao Zhu
+Chunxiao Li\*, **Xiaoxiao Wang**\*, Boming Miao, Chuanlong Xie, Zizhe Wang, Yao Zhu
 
 - Inspired by brain-like reasoning, we design a plug-and-play diffusion-enhanced framework for classification tasks. Low-confidence samples are reprocessed via conditional denoising paths, leading to consistent improvements across ImageNet-1K, CIFAR-10/100, and multiple robustness benchmarks.
 </div>
