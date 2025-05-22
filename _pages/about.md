@@ -101,19 +101,17 @@ Chunxiao Li\*, **Xiaoxiao Wang**\*, Boming Miao, Chuanlong Xie, Zizhe Wang, Yao 
 </div>
 
 # 🎖 Honors and Awards
-- *2021.10* 🥇 First Prize (Beijing), National Undergraduate Mathematics Competition
-
 - *2021.09* 🏆 Second Prize (National), China Undergraduate Mathematical Contest in Modeling (CUMCM)
 
-- *2020.12* 🥉 Third Prize (National), China Undergraduate Statistical Modeling Competition
+- *2022.12* 🥉 Third Prize (National), China Undergraduate Statistical Modeling Competition
 
 - *2021.12* 🥉 Third Prize (National), China Undergraduate Statistical Modeling Competition
 
 # 📖 Educations
 - *2023.09 – 2026.06 (expected)*, 🎓 M.Sc. in Operations Research and Cybernetics, University of Chinese Academy of Sciences. 
-- *2019.09 – 2023.06*, 🎓 B.Sc. in Information and Computing Science & B.Mgt. in Big Data Management, University of Science and Technology Beijing.
+- *2019.09 – 2023.06*, 🎓 B.Sc. in Information and Computing Science & 🎓 B.Mgt. in Big Data Management, University of Science and Technology Beijing.
 
 # 🌱 Interests
-I love modern dance, classical Chinese dance, and ballet—not just for their beauty, but for how they train the mind to flow with the body. Yoga and Pilates are my go-to rituals for balance and clarity, especially on long coding nights. I also enjoy hiking into the unknown, camera in hand, chasing light and capturing quiet moments. These passions keep me grounded, curious, and full of creative energy—both in research and in life.
+I enjoy modern dance, classical Chinese dance, and ballet for their harmony of movement and mind. Yoga and Pilates help me stay balanced and focused, while hiking and photography keep me curious and creatively inspired—both in research and in life.
 
 
