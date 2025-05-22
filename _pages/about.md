@@ -76,7 +76,7 @@ Chunxiao Li\*, **Xiaoxiao Wang**\*, Meiling Li, Boming Miao, Peng Sun, Yunjian Z
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis**](https://arxiv.org/abs/xxxx.xxxxx)
+[**Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis**](https://arxiv.org/abs/2411.16503)
 
 Boming Miao, Chunxiao Li, **Xiaoxiao Wang**, Andi Zhang, Rui Sun, Zizhe Wang, Yao Zhu
 
@@ -92,7 +92,7 @@ Boming Miao, Chunxiao Li, **Xiaoxiao Wang**, Andi Zhang, Rui Sun, Zizhe Wang, Ya
   </div>
   <div class='paper-box-text' markdown="1">
 
-[**An Efficient Framework for Enhancing Discriminative Models via Diffusion Techniques**](#)
+[**An Efficient Framework for Enhancing Discriminative Models via Diffusion Techniques**]([#](https://ojs.aaai.org/index.php/AAAI/article/view/32493))
 
 Chunxiao Li\*, **Xiaoxiao Wang**\*, Boming Miao, Chuanlong Xie, Zizhe Wang, Yao Zhu
 
@@ -113,7 +113,7 @@ Chunxiao Li\*, **Xiaoxiao Wang**\*, Boming Miao, Chuanlong Xie, Zizhe Wang, Yao 
 - *2023.09 – 2026.06 (expected)*, 🎓 M.Sc. in Operations Research and Cybernetics, University of Chinese Academy of Sciences. 
 - *2019.09 – 2023.06*, 🎓 B.Sc. in Information and Computing Science & B.Mgt. in Big Data Management, University of Science and Technology Beijing.
 
-## 🌱 Interests
+# 🌱 Interests
 I love modern dance, classical Chinese dance, and ballet—not just for their beauty, but for how they train the mind to flow with the body. Yoga and Pilates are my go-to rituals for balance and clarity, especially on long coding nights. I also enjoy hiking into the unknown, camera in hand, chasing light and capturing quiet moments. These passions keep me grounded, curious, and full of creative energy—both in research and in life.
 
 
