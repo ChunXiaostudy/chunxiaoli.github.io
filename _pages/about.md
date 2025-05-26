@@ -19,16 +19,17 @@ redirect_from:
 
 Hi! I'm Xiaoxiao Wang, a master's student at the University of Chinese Academy of Sciences (UCAS), majoring in Operations Research and Cybernetics, under the supervision of Prof. Yingjie Tian. I am currently a research intern at Qiyuan National Lab, advised by Dr. Yao Zhu.
 
-My research interests broadly include multimodal reasoning, vision-language models (VLMs), and text-to-motion generation. I am particularly passionate about building intelligent systems that combine perception and reasoning, and aim to enhance their robustness, controllability, and generalization ability in real-world scenarios.
+My research interests broadly include AI Safty, vision-language models (VLMs). I am particularly passionate about building intelligent systems that combine perception and reasoning, and aim to enhance their robustness, controllability, and generalization ability in real-world scenarios.
 
 I am currently seeking PhD opportunities, and hope to continue exploring the intersection of vision, language, and motion under world-class mentorship and collaborative research environments.
 
 
 # 🔥 News
-- *2025.03*: 🎉 Our paper **"Towards Annotation-Free Evaluation: KPA-Score for Human Keypoint Detection"** was submitted to **ICCV 2025**! (First author)
+- *2025.03*: 🎉 Our paper **"Towards Annotation-Free Evaluation: KPA-Score for Human Keypoint Detection"** was submitted to **ICCV 2025**! (Co-First author)
 - *2025.03*: 🎉 Our paper **"Bridging the Gap Between Ideal and Real-world Evaluation: Benchmarking
-AI-Generated Image Detection in Challenging Scenarios"** was submitted to **ICCV 2025**! (Co-first author)
-- *2025.3*: 🎉 One paper on **Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis** accepted to **CVPR 2025**! (Third author)
+AI-Generated Image Detection in Challenging Scenarios"** was submitted to **ICCV 2025**! (First author)
+- *2025.03*: 🎉 Our paper **"Simplifying Debiasing: Random Feature Regularization as a Key Method"** was submitted to **ICCV 2025**! (First author)
+- *2025.3*: 🎉 One paper on **Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis** accepted to **CVPR 2025**! (Second author)
 - *2024.11*: 🎉 Our work on **An Efficient Framework for Enhancing Discriminative Models via Diffusion Techniques** has been accepted by **AAAI 2025**! (Co-first author)
 
 # 📝 Publications 
@@ -44,7 +45,7 @@ AI-Generated Image Detection in Challenging Scenarios"** was submitted to **ICCV
 
 [**Towards Annotation-Free Evaluation: KPAScore for Human Keypoint Detection**](#)
 
-**Xiaoxiao Wang**, Chunxiao Li, Peng Sun, Boming Miao, Yunjian Zhang, Yao Zhu
+Xiaoxiao Wang\*, **Chunxiao Li**, Peng Sun, Boming Miao, Yunjian Zhang, Yao Zhu
 
 - We propose *KPA-Score*, a new annotation-free evaluation metric for keypoint detection based on vision-language models (VLMs). Our method simulates human judgment through binary response probability and correlates strongly with mAP, achieving 0.71 correlation without using ground-truth annotations.
 </div>
@@ -61,7 +62,7 @@ AI-Generated Image Detection in Challenging Scenarios"** was submitted to **ICCV
 
 [**Bridging the Gap Between Ideal and Real-world Evaluation: Benchmarking AI-Generated Image Detection in Challenging Scenarios**](#)
 
-Chunxiao Li\*, **Xiaoxiao Wang**\*, Meiling Li, Boming Miao, Peng Sun, Yunjian Zhang, Xiangyang Ji, Yao Zhu
+**Chunxiao Li**\*, Xiaoxiao Wang\*, Meiling Li, Boming Miao, Peng Sun, Yunjian Zhang, Xiangyang Ji, Yao Zhu
 
 - We introduce a new benchmark for AI-generated image detection that incorporates real-world distortions such as social media compression and re-digitization. Extensive experiments reveal performance gaps in existing detectors and VLMs. We also propose a robustness-aware in-context few-shot prompting method for improved detection accuracy.
 </div>
@@ -78,7 +79,7 @@ Chunxiao Li\*, **Xiaoxiao Wang**\*, Meiling Li, Boming Miao, Peng Sun, Yunjian Z
 
 [**Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis**](https://arxiv.org/abs/2411.16503)
 
-Boming Miao, Chunxiao Li, **Xiaoxiao Wang**, Andi Zhang, Rui Sun, Zizhe Wang, Yao Zhu
+Boming Miao, **Chunxiao Li**, Xiaoxiao Wang, Andi Zhang, Rui Sun, Zizhe Wang, Yao Zhu
 
 - We propose a simple yet effective method to optimize the latent noise of diffusion models using VLM-guided question-answering, aiming to improve semantic faithfulness of generated images. Our method is model-agnostic, training-free, and improves both VQA and CLIP-based alignment scores.
 </div>
@@ -94,7 +95,7 @@ Boming Miao, Chunxiao Li, **Xiaoxiao Wang**, Andi Zhang, Rui Sun, Zizhe Wang, Ya
 
 [**An Efficient Framework for Enhancing Discriminative Models via Diffusion Techniques**]([#](https://ojs.aaai.org/index.php/AAAI/article/view/32493))
 
-Chunxiao Li\*, **Xiaoxiao Wang**\*, Boming Miao, Chuanlong Xie, Zizhe Wang, Yao Zhu
+**Chunxiao Li**\*, Xiaoxiao Wang\*, Boming Miao, Chuanlong Xie, Zizhe Wang, Yao Zhu
 
 - Inspired by brain-like reasoning, we design a plug-and-play diffusion-enhanced framework for classification tasks. Low-confidence samples are reprocessed via conditional denoising paths, leading to consistent improvements across ImageNet-1K, CIFAR-10/100, and multiple robustness benchmarks.
 </div>
@@ -108,10 +109,10 @@ Chunxiao Li\*, **Xiaoxiao Wang**\*, Boming Miao, Chuanlong Xie, Zizhe Wang, Yao 
 - *2021.12* 🥉 Third Prize (National), China Undergraduate Statistical Modeling Competition
 
 # 📖 Educations
-- *2023.09 – 2026.06 (expected)*, 🎓 M.Sc. in Operations Research and Cybernetics, University of Chinese Academy of Sciences. 
-- *2019.09 – 2023.06*, 🎓 B.Sc. in Information and Computing Science & 🎓 B.Mgt. in Big Data Management, University of Science and Technology Beijing.
+- *2023.09 – 2025.06 (expected)*, 🎓 M.Sc. in Statistics, Beijing Normal University. 
+- *2019.09 – 2023.06*, 🎓 B.Sc. in Information and Computing Science, University of Science and Technology Beijing.
 
 # 🌱 Interests
-I enjoy modern dance, classical Chinese dance, and ballet for their harmony of movement and mind. Yoga and Pilates help me stay balanced and focused, while hiking and photography keep me curious and creatively inspired—both in research and in life.
+I enjoy sports like **Muay Thai**, **strength training**, **Brazilian Jiu-Jitsu**, and more. I pursue a robust physique and a free spirit.
 
 
