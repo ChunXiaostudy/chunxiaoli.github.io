@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I'm Xiaoxiao Wang, a master's student at the University of Chinese Academy of Sciences (UCAS), majoring in Operations Research and Cybernetics, under the supervision of Prof. Yingjie Tian. I am currently a research intern at Qiyuan National Lab, advised by Dr. Yao Zhu.
+Hi! I'm Chunxiao Li, a master's student at the Beijing Normal University, majoring in Statistics, under the supervision of Prof. Chuanlong Xie. I am currently a research intern at Qiyuan National Lab, advised by Dr. Yao Zhu.
 
-My research interests broadly include AI Safty, vision-language models (VLMs). I am particularly passionate about building intelligent systems that combine perception and reasoning, and aim to enhance their robustness, controllability, and generalization ability in real-world scenarios.
+My research interests broadly include AI Safety, vision-language models (VLMs). 
 
-I am currently seeking PhD opportunities, and hope to continue exploring the intersection of vision, language, and motion under world-class mentorship and collaborative research environments.
+**I am currently seeking PhD opportunities and aim to further explore AI safety, explainability, and the development of secure AI communities.**
 
 
 # 🔥 News
@@ -31,7 +31,8 @@ AI-Generated Image Detection in Challenging Scenarios"** was submitted to **ICCV
 - *2025.03*: 🎉 Our paper **"Simplifying Debiasing: Random Feature Regularization as a Key Method"** was submitted to **ICCV 2025**! (First author)
 - *2025.3*: 🎉 One paper on **Noise Diffusion for Enhancing Semantic Faithfulness in Text-to-Image Synthesis** accepted to **CVPR 2025**! (Second author)
 - *2024.11*: 🎉 Our work on **An Efficient Framework for Enhancing Discriminative Models via Diffusion Techniques** has been accepted by **AAAI 2025**! (Co-first author)
-
+- *2024.11*: 🎉 Our work on **Prediction of iliac limb occlusion after endovascular aneurysm repair for abdominal aortic aneurysm by anatomical and near-wall hemodynamic characteristics combining numerical simulation and in vitro experiment** has been accepted by **Computer Methods and Programs in Biomedicine, IF=4.9. JCRQ1**! (Co-first author)
+  
 # 📝 Publications 
 
 <div class='paper-box'>
