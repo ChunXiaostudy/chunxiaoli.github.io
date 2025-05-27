@@ -46,7 +46,7 @@ AI-Generated Image Detection in Challenging Scenarios"** was submitted to **ICCV
 
 [**Towards Annotation-Free Evaluation: KPAScore for Human Keypoint Detection**](#)
 
-Xiaoxiao Wang\*, **Chunxiao Li**, Peng Sun, Boming Miao, Yunjian Zhang, Yao Zhu
+Xiaoxiao Wang\*, **Chunxiao Li**\*, Peng Sun, Boming Miao, Yunjian Zhang, Yao Zhu
 
 - We propose *KPA-Score*, a new annotation-free evaluation metric for keypoint detection based on vision-language models (VLMs). Our method simulates human judgment through binary response probability and correlates strongly with mAP, achieving 0.71 correlation without using ground-truth annotations.
 </div>
